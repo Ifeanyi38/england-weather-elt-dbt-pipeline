@@ -10,3 +10,5 @@ wheels/
 .venv
 # Secrets: database passwords and other credentials 
 .env
+# airflow logs 
+airflow/logs/
